@@ -1,0 +1,8 @@
+Hmin = 0.3
+Hmax = 0.93
+
+a partir da direita
+a partir da esquerda
+a partir da esquerda
+a partir da esquerda
+a partir da esquerda
